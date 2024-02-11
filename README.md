@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto da Ebac HTML/CSS/JavaScript </h1>
+<h1 align="center"> Projeto feito no curso da Ebac HTML/CSS/JavaScript </h1>
 <br>
 
 ## 🚀 Tecnologias
